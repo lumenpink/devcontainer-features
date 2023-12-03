@@ -1,0 +1,10 @@
+{
+    "name": "wasm-pack",
+    "id": "wasm-pack",
+    "version": "0.0.1",
+    "description": "Add wasm-pack using the installer",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils",
+        "ghcr.io/devcontainers/features/rust"
+    ]
+}
