@@ -1,8 +1,9 @@
 {
     "name": "wasm-pack",
     "id": "wasm-pack",
-    "version": "0.0.1",
-    "description": "Add wasm-pack using the installer",
+    "version": "0.0.2",
+    "documentationURL": "https://github.com/lumenpink/devcontainer-features/tree/main/src/wasm=pack",
+    "description": "Add wasm-pack, your favorite rust -> wasm workflow tool, using the installer",
     "installsAfter": [
         "ghcr.io/devcontainers/features/common-utils",
         "ghcr.io/devcontainers/features/rust"
