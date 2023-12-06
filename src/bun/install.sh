@@ -11,6 +11,8 @@ which unzip > /dev/null || (apt update && apt install unzip -y -qq)
 
 curl -fsSL https://bun.sh/install | bash
 
+test -f ~/.bashrc && source ~/.bashrc 
+
 BUN_INSTALL=`which bun` || die "bun install location not found!"
 
 if [ $LOCAL_INSTALL -gt 0 ] ; then
