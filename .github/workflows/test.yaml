@@ -13,6 +13,7 @@ jobs:
     strategy:
       matrix:
         features:
+          - bun
           - wasm-pack
         baseImage:
           - debian:latest
@@ -33,6 +34,7 @@ jobs:
     strategy:
       matrix:
         features:
+          - bun
           - wasm-pack
     steps:
       - uses: actions/checkout@v3

@@ -1,0 +1,11 @@
+{
+    "name": "bun",
+    "id": "bun",
+    "version": "0.0.1",
+    "documentationURL": "https://github.com/lumenpink/devcontainer-features/tree/main/src/bun",
+    "description": "Add bun, the all-in-one javascript runtime, using the installer (and keeping the .bun/bin on path)",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
+ 
