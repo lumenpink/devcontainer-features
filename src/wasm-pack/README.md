@@ -1,7 +1,7 @@
 
 # wasm-pack (wasm-pack)
 
-Add wasm-pack using the installer
+Add wasm-pack, your favorite rust -> wasm workflow tool, using the installer
 
 ## Example Usage
 
