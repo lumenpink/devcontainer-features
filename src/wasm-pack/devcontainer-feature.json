@@ -1,7 +1,7 @@
 {
     "name": "wasm-pack",
     "id": "wasm-pack",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "documentationURL": "https://github.com/lumenpink/devcontainer-features/tree/main/src/wasm-pack",
     "description": "Add wasm-pack, your favorite rust -> wasm workflow tool, using the installer",
     "installsAfter": [
